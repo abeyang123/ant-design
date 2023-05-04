@@ -39,7 +39,6 @@ This document contains the correspondence between all the less variables related
 
 <!-- ### Divider -->
 
-
 ## Drawer
 
 <!-- prettier-ignore -->
@@ -52,7 +51,6 @@ This document contains the correspondence between all the less variables related
 | `@drawer-body-padding` | `paddingLG` | - |
 | `@drawer-footer-padding-vertical` | `drawerFooterPaddingVertical` | `drawerFooterPaddingVertical`  is a number without units, `@drawer-footer-padding-vertical` with units |
 | `@drawer-footer-padding-horizontal` | `drawerFooterPaddingHorizontal` | `drawerFooterPaddingHorizontal`  is a number without units, `@drawer-footer-padding-horizontal` with units |
-
 
 <!-- ### Dropdown -->
 
@@ -134,7 +132,6 @@ This document contains the correspondence between all the less variables related
 
 <!-- ### Rate -->
 
-
 ## Result
 
 <!-- prettier-ignore -->
@@ -145,15 +142,28 @@ This document contains the correspondence between all the less variables related
 | `@result-subtitle-font-size` | `resultSubtitleFontSize` | - |
 | `@result-extra-margin` | `resultExtraMargin` | - |
 
-
 <!-- ### Segment -->
 
 <!-- ### Select -->
 
-<!-- ### Skeleton -->
+## Skeleton
+
+<!-- prettier-ignore -->
+| Less variables | Component Token | Note |
+| --- | --- | --- |
+| `@skeleton-avatar-prefix-cls` | `skeletonAvatarCls` | - |
+| `@skeleton-paragraph-prefix-cls` | `skeletonParagraphCls` | - |
+| `@skeleton-button-prefix-cls` | `skeletonButtonCls` | - |
+| `@skeleton-input-prefix-cls` | `skeletonInputCls` | - |
+| `@skeleton-image-prefix-cls` | `skeletonImageCls` | - |
+| `@skeleton-block-radius` | `skeletonBlockRadius` | - |
+| `@skeleton-title-height` | `skeletonTitleHeight` | - |
+| `@skeleton-color` | `color` | - |
+| `@skeleton-title-paragraph-margin-top` | `skeletonParagraphMarginTop` | - |
+| `@skeleton-paragraph-li-height` | `skeletonParagraphLineHeight` | - |
+| `@skeleton-to-color` | `colorGradientEnd` | - |
 
 <!-- ### Slider -->
-
 
 ## Statistic
 
@@ -163,7 +173,6 @@ This document contains the correspondence between all the less variables related
 | `@statistic-title-font-size` | `statisticTitleFontSize` | - |
 | `@statistic-content-font-size` | `statisticContentFontSize` | - |
 | `@statistic-font-family` | `statisticFontFamily` | - |
-
 
 ## Step
 
