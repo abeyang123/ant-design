@@ -154,8 +154,6 @@ title: Less 变量迁移 Design Token
 | `@skeleton-block-radius` | `skeletonBlockRadius` | - |
 | `@skeleton-title-height` | `skeletonTitleHeight` | - |
 | `@skeleton-color` | `color` | - |
-| `@skeleton-title-paragraph-margin-top` | `skeletonParagraphMarginTop` | - |
-| `@skeleton-paragraph-li-height` | `skeletonParagraphLineHeight` | - |
 | `@skeleton-to-color` | `colorGradientEnd` | - |
 
 <!-- ### Slider 滑动输入条 -->
