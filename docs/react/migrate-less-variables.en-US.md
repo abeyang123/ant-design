@@ -151,11 +151,6 @@ This document contains the correspondence between all the less variables related
 <!-- prettier-ignore -->
 | Less variables | Component Token | Note |
 | --- | --- | --- |
-| `@skeleton-avatar-prefix-cls` | `skeletonAvatarCls` | - |
-| `@skeleton-paragraph-prefix-cls` | `skeletonParagraphCls` | - |
-| `@skeleton-button-prefix-cls` | `skeletonButtonCls` | - |
-| `@skeleton-input-prefix-cls` | `skeletonInputCls` | - |
-| `@skeleton-image-prefix-cls` | `skeletonImageCls` | - |
 | `@skeleton-block-radius` | `skeletonBlockRadius` | - |
 | `@skeleton-title-height` | `skeletonTitleHeight` | - |
 | `@skeleton-color` | `color` | - |
