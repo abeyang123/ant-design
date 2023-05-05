@@ -39,7 +39,7 @@ This document contains the correspondence between all the less variables related
 
 <!-- ### Divider -->
 
-## Drawer
+### Drawer
 
 <!-- prettier-ignore -->
 | Less variables | Component Token | Note |
@@ -70,7 +70,7 @@ This document contains the correspondence between all the less variables related
 
 <!-- ### Menu -->
 
-## Message
+### Message
 
 <!-- prettier-ignore -->
 | Less variables | Component Token | Note |
@@ -79,7 +79,7 @@ This document contains the correspondence between all the less variables related
 | `@message-notice-content-padding` | `messageNoticeContentPadding` | - |
 | `@message-notice-content-bg` | `messageNoticeContentBg` | - |
 
-## Modal
+### Modal
 
 <!-- prettier-ignore -->
 | Less variables | Component Token | Note |
@@ -109,7 +109,7 @@ This document contains the correspondence between all the less variables related
 | `@modal-confirm-title-font-size` | `modalHeaderTitleFontSize` | - |
 | `@modal-border-radius` | `borderRadiusLG` | - |
 
-## Notification
+### Notification
 
 <!-- prettier-ignore -->
 | Less variables | Component Token | Note |
@@ -132,7 +132,7 @@ This document contains the correspondence between all the less variables related
 
 <!-- ### Rate -->
 
-## Result
+### Result
 
 <!-- prettier-ignore -->
 | Less variables | Component Token | Note |
@@ -146,7 +146,7 @@ This document contains the correspondence between all the less variables related
 
 <!-- ### Select -->
 
-## Skeleton
+### Skeleton
 
 <!-- prettier-ignore -->
 | Less variables | Component Token | Note |
@@ -158,7 +158,7 @@ This document contains the correspondence between all the less variables related
 
 <!-- ### Slider -->
 
-## Statistic
+### Statistic
 
 <!-- prettier-ignore -->
 | Less variables | Component Token | Note |
@@ -167,7 +167,7 @@ This document contains the correspondence between all the less variables related
 | `@statistic-content-font-size` | `statisticContentFontSize` | - |
 | `@statistic-font-family` | `statisticFontFamily` | - |
 
-## Step
+### Step
 
 <!-- prettier-ignore -->
 | Less variables | Component Token | Note |

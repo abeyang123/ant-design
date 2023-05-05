@@ -39,7 +39,7 @@ title: Less 变量迁移 Design Token
 
 <!-- ### Divider 分割线 -->
 
-## Drawer 抽屉
+### Drawer 抽屉
 
 <!-- prettier-ignore -->
 | Less 变量 | Component Token | 备注 |
@@ -70,7 +70,7 @@ title: Less 变量迁移 Design Token
 
 <!-- ### Menu 导航菜单 -->
 
-## Message 全局提示
+### Message 全局提示
 
 <!-- prettier-ignore -->
 | Less 变量 | Component Token | 备注 |
@@ -109,7 +109,7 @@ title: Less 变量迁移 Design Token
 | `@modal-confirm-title-font-size` | `modalHeaderTitleFontSize` | - |
 | `@modal-border-radius` | `borderRadiusLG` | - |
 
-## Notification 通知提醒框
+### Notification 通知提醒框
 
 <!-- prettier-ignore -->
 | Less 变量 | Component Token | 备注 |
@@ -132,7 +132,7 @@ title: Less 变量迁移 Design Token
 
 <!-- ### Rate 评分 -->
 
-## Result 结果
+### Result 结果
 
 <!-- prettier-ignore -->
 | Less 变量 | Component Token | 备注 |
@@ -146,7 +146,7 @@ title: Less 变量迁移 Design Token
 
 <!-- ### Select 选择器 -->
 
-## Skeleton 骨架屏
+### Skeleton 骨架屏
 
 <!-- prettier-ignore -->
 | Less 变量 | Component Token | 备注 |
@@ -158,7 +158,7 @@ title: Less 变量迁移 Design Token
 
 <!-- ### Slider 滑动输入条 -->
 
-## Statistic 统计数值
+### Statistic 统计数值
 
 <!-- prettier-ignore -->
 | Less 变量 | Component Token | 备注 |
